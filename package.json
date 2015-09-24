@@ -1,0 +1,26 @@
+{
+  "name": "wallaby-properties2json-preprocessor",
+  "version": "1.0.0",
+  "description": "Preprocessor for converting .properties files into JSON files",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/fvanwijk/wallaby-properties2json-preprocessor.git"
+  },
+  "keywords": [
+    "wallaby-plugin",
+    "wallaby-preprocessor",
+    "properties",
+    "json"
+  ],
+  "author": "Frank van Wijk <fvanwijk@xebia.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fvanwijk/wallaby-properties2json-preprocessor/issues"
+  },
+  "homepage": "https://github.com/fvanwijk/wallaby-properties2json-preprocessor#readme",
+  "dependencies": {
+    "java.properties.js": "0.0.4",
+    "properties-parser": "0.3.0"
+  }
+}
