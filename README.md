@@ -1,5 +1,8 @@
 # Wallaby properties2JSON preprocessor
 
+[![devDependency Status](https://david-dm.org/fvanwijk/wallaby-properties2json-preprocessor/dev-status.svg)](https://david-dm.org/fvanwijk/wallaby-properties2json-preprocessor#info=devDependencies)
+[![Dependency Status](https://david-dm.org/fvanwijk/wallaby-properties2json-preprocessor.svg)](https://david-dm.org/fvanwijk/wallaby-properties2json-preprocessor)
+
 Preprocessor for converting .properties files into JSON files.
 
 ## Usage
