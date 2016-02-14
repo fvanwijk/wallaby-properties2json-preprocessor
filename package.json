@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/fvanwijk/wallaby-properties2json-preprocessor#readme",
   "dependencies": {
-    "java.properties.js": "0.0.4",
-    "properties-parser": "0.3.0"
+    "java.properties.js": "0.3.0",
+    "properties-parser": "0.3.1"
   }
 }
